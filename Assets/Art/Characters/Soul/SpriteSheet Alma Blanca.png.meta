@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: bda70bf2a33e0da4d93b039e8b67026a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6808170310312930923
+    second: SpriteSheet Alma Blanca_0
+  - first:
+      213: -3280031311808970217
+    second: SpriteSheet Alma Blanca_1
+  - first:
+      213: 727347186856743255
+    second: SpriteSheet Alma Blanca_2
+  - first:
+      213: 8154880216640013646
+    second: SpriteSheet Alma Blanca_3
+  - first:
+      213: -8969730672799111766
+    second: SpriteSheet Alma Blanca_4
+  - first:
+      213: -6249431103335738089
+    second: SpriteSheet Alma Blanca_5
+  - first:
+      213: 8794241420862112919
+    second: SpriteSheet Alma Blanca_6
+  - first:
+      213: -1257205301945606914
+    second: SpriteSheet Alma Blanca_7
+  - first:
+      213: -3344441694575555236
+    second: SpriteSheet Alma Blanca_8
+  - first:
+      213: -7085177601644914766
+    second: SpriteSheet Alma Blanca_9
+  - first:
+      213: 157499198183276612
+    second: SpriteSheet Alma Blanca_10
+  - first:
+      213: -3294019454852833457
+    second: SpriteSheet Alma Blanca_11
+  - first:
+      213: -9118574649104612632
+    second: SpriteSheet Alma Blanca_12
+  - first:
+      213: 7588896534560867844
+    second: SpriteSheet Alma Blanca_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheet Alma Blanca_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 56
+        width: 105
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e209473da7b7e50800000000000000
+      internalID: 6808170310312930923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Alma Blanca_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 56
+        width: 94
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715556db58f8549a0800000000000000
+      internalID: -6249431103335738089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Alma Blanca_7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 56
+        width: 101
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc5bc750728d8ee0800000000000000
+      internalID: -1257205301945606914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Alma Blanca_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 56
+        width: 108
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4408f10bfac8f2200800000000000000
+      internalID: 157499198183276612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Alma Blanca_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 56
+        width: 110
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2cc3e3ba0547180800000000000000
+      internalID: -9118574649104612632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Alma Blanca_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 56
+        width: 109
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40681b3c03d215960800000000000000
+      internalID: 7588896534560867844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Alma Blanca_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 56
+        width: 99
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b730e9511b2fc2540a1818e72e267e61
+      internalID: 1649937916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheet Alma Blanca_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 56
+        width: 109
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fe8f341cd234943a9dd39e0b122095
+      internalID: -1698454411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0ef57ebad99c63a49b7f74f5980bf593
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteSheet Alma Blanca_0: 6808170310312930923
+      SpriteSheet Alma Blanca_1: -3280031311808970217
+      SpriteSheet Alma Blanca_10: 157499198183276612
+      SpriteSheet Alma Blanca_11: -3294019454852833457
+      SpriteSheet Alma Blanca_12: -9118574649104612632
+      SpriteSheet Alma Blanca_13: 7588896534560867844
+      SpriteSheet Alma Blanca_14: 1841928796
+      SpriteSheet Alma Blanca_15: 1649937916
+      SpriteSheet Alma Blanca_16: -1698454411
+      SpriteSheet Alma Blanca_17: 2037969910
+      SpriteSheet Alma Blanca_18: -1044231918
+      SpriteSheet Alma Blanca_19: 2026868081
+      SpriteSheet Alma Blanca_2: 727347186856743255
+      SpriteSheet Alma Blanca_3: 8154880216640013646
+      SpriteSheet Alma Blanca_4: -8969730672799111766
+      SpriteSheet Alma Blanca_5: -6249431103335738089
+      SpriteSheet Alma Blanca_6: 8794241420862112919
+      SpriteSheet Alma Blanca_7: -1257205301945606914
+      SpriteSheet Alma Blanca_8: -3344441694575555236
+      SpriteSheet Alma Blanca_9: -7085177601644914766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
