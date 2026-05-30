@@ -6,8 +6,35 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Intro.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2ebc05998d8088344afc4f599cf1616b
+  - enabled: 1
+    path: Assets/Scenes/Limbo.unity
+    guid: 9c2d5c8f2bab43f4c83f46afadea517a
+  - enabled: 1
+    path: Assets/Scenes/Bosque.unity
+    guid: eeaa6270a66b9ab438b204556e4a0a2b
+  - enabled: 1
+    path: Assets/Scenes/Playa.unity
+    guid: bcd4f2fd1353876409fce341307faca5
+  - enabled: 1
+    path: Assets/Scenes/Playa Dragon.unity
+    guid: c849d82e12d210b4fb30105c69c4d087
+  - enabled: 1
+    path: Assets/Scenes/Mar.unity
+    guid: efdf8de2b6e38f24e8be4a5168c68357
+  - enabled: 1
+    path: Assets/Scenes/Palacio Dragon.unity
+    guid: ee2fa8f8836f486438f05356d700d726
+  - enabled: 1
+    path: Assets/Scenes/Final Boss.unity
+    guid: 694ff892421acf145bd73ff256b53712
+  - enabled: 1
+    path: Assets/Scenes/Creditos Finales.unity
+    guid: 33149ff3d62deb646907ff81d474cac1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
