@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+#nullable enable
+
 /// <summary>
 /// Adds WASD movement and optional jumping to any GameObject tagged as "Player".
 /// This script is attached automatically at runtime after scene load.
@@ -37,19 +39,21 @@ public class PlayerWASDController : MonoBehaviour
     [Tooltip("Distance below the object used to check whether it is grounded.")]
     public float groundedCheckDistance = 0.2f;
 
-    private Rigidbody rb;
+    private Rigidbody? rb;
     private bool hasRigidbody;
     private float verticalVelocity;
     private float baselineY;
-    private Transform moveTransform;
-    private Transform flipTarget;
+    private Transform moveTransform = null!;
+    private Transform flipTarget = null!;
     private Vector3 originalScale;
+    private Animator? animator;
 
     private void Awake()
     {
         hasRigidbody = TryGetComponent<Rigidbody>(out rb);
+        animator = GetComponent<Animator>();
         // prefer moving the root transform when an Animator is present (prevents animation overwriting movement)
-        moveTransform = GetComponent<Animator>() != null ? transform.root : transform;
+        moveTransform = animator != null ? transform.root : transform;
         baselineY = moveTransform.position.y;
 
         // find a child SpriteRenderer to flip visually; fall back to the object itself
@@ -66,7 +70,15 @@ public class PlayerWASDController : MonoBehaviour
     private void Update()
     {
         Vector3 direction = GetInputDirection();
-        if (direction.sqrMagnitude > 0f)
+        bool isMoving = direction.sqrMagnitude > 0f;
+
+        // Update animator IsMoving parameter
+        if (animator != null)
+        {
+            animator.SetBool("IsMoving", isMoving);
+        }
+
+        if (isMoving)
         {
             direction.Normalize();
             moveTransform.Translate(direction * moveSpeed * Time.deltaTime, useWorldSpace ? Space.World : Space.Self);

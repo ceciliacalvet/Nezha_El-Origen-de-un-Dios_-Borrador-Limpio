@@ -1,5 +1,7 @@
 using UnityEngine;
 
+#nullable enable
+
 [RequireComponent(typeof(Collider), typeof(Rigidbody))]
 public class MariposaCollectible : MonoBehaviour
 {
@@ -7,7 +9,7 @@ public class MariposaCollectible : MonoBehaviour
     public string playerTag = "Player";
 
     [Tooltip("Optional sound played when collected.")]
-    public AudioClip collectSfx;
+    public AudioClip? collectSfx;
 
     [Tooltip("Volume for the collection sound.")]
     [Range(0f, 1f)]
