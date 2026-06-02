@@ -198,7 +198,7 @@ GameObject:
   - component: {fileID: 345693253}
   - component: {fileID: 345693254}
   m_Layer: 0
-  m_Name: 2 (1)_0
+  m_Name: Mariposa 2
   m_TagString: Mariposa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2065,7 +2065,7 @@ GameObject:
   - component: {fileID: 625126724}
   - component: {fileID: 625126725}
   m_Layer: 0
-  m_Name: 1 (1)_0
+  m_Name: Mariposa 1
   m_TagString: Mariposa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2975,7 +2975,7 @@ GameObject:
   - component: {fileID: 1315577908}
   - component: {fileID: 1315577909}
   m_Layer: 0
-  m_Name: 3_0
+  m_Name: Mariposa 3
   m_TagString: Mariposa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3350,7 +3350,7 @@ GameObject:
   - component: {fileID: 1480224410}
   - component: {fileID: 1480224411}
   m_Layer: 0
-  m_Name: 5_0
+  m_Name: Mariposa 5
   m_TagString: Mariposa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3559,7 +3559,7 @@ GameObject:
   - component: {fileID: 1714678092}
   - component: {fileID: 1714678093}
   m_Layer: 0
-  m_Name: 4_0
+  m_Name: Mariposa 4
   m_TagString: Mariposa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3769,7 +3769,7 @@ GameObject:
   - component: {fileID: 1813436313}
   - component: {fileID: 1813436314}
   m_Layer: 0
-  m_Name: 6_0
+  m_Name: Mariposa 6
   m_TagString: Mariposa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
