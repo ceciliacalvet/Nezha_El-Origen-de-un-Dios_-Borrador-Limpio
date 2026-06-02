@@ -3959,10 +3959,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca64f9e757e8874499bb797171c4ac8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgroundMusic: {fileID: 0}
+  backgroundMusic: {fileID: 8300000, guid: 2de89b03a1645f74fa5533dd31c8972b, type: 3}
   playOnAwake: 1
   loopMusic: 1
-  musicVolume: 0.75
+  musicVolume: 0.605
   sfxVolume: 1
 --- !u!4 &1986350133
 Transform:
