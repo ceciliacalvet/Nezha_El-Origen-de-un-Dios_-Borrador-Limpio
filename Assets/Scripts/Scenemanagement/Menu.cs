@@ -7,7 +7,7 @@ using UnityEditor;
 public class Menu : MonoBehaviour
 {
     [Tooltip("Scene name to load when Play is pressed. Set this to a scene included in Build Settings.")]
-    public string playSceneName = "Escenario 0";
+    public string playSceneName = "Limbo";
 
     public void Jugar()
     {
